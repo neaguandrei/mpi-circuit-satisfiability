@@ -1,0 +1,4 @@
+﻿  Neagu_Andrei-Cosmin_PPC_2021_BDTS_505.cpp
+C:\ppc\Neagu_Andrei-Cosmin_PPC_2021_BDTS_505\Neagu_Andrei-Cosmin_PPC_2021_BDTS_505\Neagu_Andrei-Cosmin_PPC_2021_BDTS_505.cpp(103,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\ppc\Neagu_Andrei-Cosmin_PPC_2021_BDTS_505\Neagu_Andrei-Cosmin_PPC_2021_BDTS_505\Neagu_Andrei-Cosmin_PPC_2021_BDTS_505.cpp(121,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Neagu_Andrei-Cosmin_PPC_2021_BDTS_505.vcxproj -> C:\ppc\Neagu_Andrei-Cosmin_PPC_2021_BDTS_505\Debug\Neagu_Andrei-Cosmin_PPC_2021_BDTS_505.exe
